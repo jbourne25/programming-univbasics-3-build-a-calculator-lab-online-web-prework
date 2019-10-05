@@ -12,7 +12,6 @@ end
 
 def multiplication(num1, num2)
   4 * 30
-
 end
 
 def modulo(num1, num2)
